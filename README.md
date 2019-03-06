@@ -1,4 +1,4 @@
-## Meow - MiniApp Framework
+## Meow - 小程序开发框架
 
 ---
 
