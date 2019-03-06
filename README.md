@@ -1,4 +1,4 @@
-## Meow - MiniApp Framework 
+## Meow - MiniApp Framework
 
 ---
 
