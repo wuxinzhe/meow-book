@@ -1,3 +1,8 @@
-# My Awesome Book
+## Meow - MiniApp Framework 
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+---
+
+> Meow 是一个用 Typescript 构建的类小程序开发框架，主流的思想是通过配置化的方式，将业务代码与非业务代码解耦。
+
+
+
